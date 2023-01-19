@@ -1,1 +1,1 @@
-console.log("amypt")
+console.log("ntamm")
