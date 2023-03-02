@@ -1,2 +1,2 @@
 console.log("hdogm")
-console.log("grmag")
+console.log("ogoth")
